@@ -1,4 +1,4 @@
-### Hello There The Fellow Github Users 👋 ###
+### Hello There Fellow Github Users 👋 ###
 
 - 🔭 I’m currently working on my dotfiles and a distro
 - 🌱 I’m currently learning C and C++
