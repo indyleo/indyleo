@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning rando
 - he/him are my pronouns
 - Fun fact: Debian is the best distro
+- Will be updating less now since i'm now dual booting
