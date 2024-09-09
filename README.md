@@ -1,6 +1,6 @@
 ### Hello There Fellow Github Users 👋 ###
 
-- 🔭 I’m currently thinking to switch to kde6 or cosmic
+- 🔭 I’m currently thinking to switch to kde6 or hyprland
 - 🌱 I’m currently learning rando
 - he/him are my pronouns
 - Fun fact: LFS is the best distro
