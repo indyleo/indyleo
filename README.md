@@ -1,7 +1,7 @@
 ### Hello There Fellow Github Users 👋 ###
 
-- 🔭 I’m currently working on my new dwm config
+- 🔭 I’m currently thinking to switch to kde6 or cosmic
 - 🌱 I’m currently learning rando
 - he/him are my pronouns
-- Fun fact: Debian is the best distro
-- Will be updating less now since i'm now dual booting
+- Fun fact: LFS is the best distro
+- Will be updating less now since i'm now dual booting (may start to only use wsl)
