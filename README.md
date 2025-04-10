@@ -19,6 +19,7 @@ Here are a few things I’m working on or have built:
 - **[My Kde Setup](https://github.com/indyleo/kdedots)** – A highly-tweaked config built with performance and aesthetic in mind.
 - **[Tool Scripts](https://github.com/indyleo/scripts)** – Handy shell and scripts to make life easier.
 - **[My Windows Setup](https://github.com/indyleo/WindowsStuff)** – A nice clean windows setup
+- **[Wallpapers](https://github.com/indyleo/Wallpapers)** - My Clean Nord Wallpaper Collection
 
 ## Get In Touch
 
