@@ -1,6 +1,6 @@
 # Hi, I'm Indyleo!
 
-**Likes Learning New Skills | Backend Developer **
+**Likes Learning New Skills | Backend Developer**
 
 Welcome to my GitHub profile! I'm passionate about building clean, efficient, and scalable software. Whether it’s scripting for automation, configuring systems, or developing full-blown applications, I enjoy solving real-world problems through code.
 
