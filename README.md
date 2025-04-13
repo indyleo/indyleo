@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 Here are a few things I’m working on or have built:
 
-- **[My KDE Setup](https://github.com/indyleo/Catalyst)** – Install system configurations.
+- **[Catalyst](https://github.com/indyleo/Catalyst)** – Install system configurations.
 - **[My Dotfiles](https://github.com/indyleo/dotfiles-stow)** – Opimized workflow for me.
 - **[Tool Scripts](https://github.com/indyleo/scripts)** – Handy shell and PowerShell scripts to make life easier.
 - **[My Windows Setup](https://github.com/indyleo/WindowsStuff)** – A clean, customized Windows environment.
