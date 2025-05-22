@@ -21,7 +21,7 @@ Here are a few things I’m working on or have built:
 - **[Suckless](https://github.com/indyleo/suckless)** – Suckless tools i use.
 - **[Tool Scripts](https://github.com/indyleo/scripts)** – Handy shell and PowerShell scripts to make life easier.
 - **[My Windows Setup](https://github.com/indyleo/WindowsStuff)** – A clean, customized Windows environment.
-- **[Wallpapers](https://github.com/indyleo/Wallpapers)** – My curated Nord-themed wallpaper collection.
+- **[Wallpapers](https://github.com/indyleo/Wallpapers)** – My curated wallpaper collection for multiple themes.
 - **[Portfilio](https://www.linuxlab.work/)** - Portfilio Website.
 ## Connect With Me
 
