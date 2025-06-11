@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - **OS Preference:** Linux-first (Arch/Debian), but I work with Windows as well.
 - **Languages I Use:** Go, Python, Lua, Shell, PowerShell, web languages, C/C++, and Zig
 - **Currently Exploring:** Keyboards (as always), workflows, tools, and home servers
-- **Tools I Like:** Neovim, Docker, Git, Alacritty, Floorp or Brave, and Oh My Posh
+- **Tools I Like:** Neovim, Docker, Git, St, Qutebrowser, and Zsh
 - **Fun Fact:** I sometimes get more excited about dotfiles than actual projects (though I find both fun).
 
 ## Projects
